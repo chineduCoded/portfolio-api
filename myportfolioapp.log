@@ -1,0 +1,14 @@
+21/05/2024 at 01:11:18 | INFO | middleware.log_middleware:14 | method: GET | path: / | status_code: 200 | process_time: 0.00s
+21/05/2024 at 01:11:18 | INFO | middleware.log_middleware:14 | method: GET | path: / | status_code: 200 | process_time: 0.00s
+21/05/2024 at 01:11:20 | INFO | middleware.log_middleware:14 | method: GET | path: /favicon.ico | status_code: 404 | process_time: 0.00s
+21/05/2024 at 01:11:20 | INFO | middleware.log_middleware:14 | method: GET | path: /favicon.ico | status_code: 404 | process_time: 0.00s
+21/05/2024 at 01:11:44 | INFO | middleware.log_middleware:14 | method: GET | path: /docs | status_code: 200 | process_time: 0.00s
+21/05/2024 at 01:11:44 | INFO | middleware.log_middleware:14 | method: GET | path: /docs | status_code: 200 | process_time: 0.00s
+21/05/2024 at 01:11:48 | INFO | middleware.log_middleware:14 | method: GET | path: /openapi.json | status_code: 200 | process_time: 2.27s
+21/05/2024 at 01:11:48 | INFO | middleware.log_middleware:14 | method: GET | path: /openapi.json | status_code: 200 | process_time: 2.27s
+21/05/2024 at 01:12:31 | INFO | middleware.log_middleware:14 | method: GET | path: / | status_code: 200 | process_time: 0.00s
+21/05/2024 at 01:12:31 | INFO | middleware.log_middleware:14 | method: GET | path: / | status_code: 200 | process_time: 0.00s
+21/05/2024 at 01:12:52 | INFO | middleware.log_middleware:14 | method: GET | path: /v1/users/count | status_code: 200 | process_time: 2.23s
+21/05/2024 at 01:12:52 | INFO | middleware.log_middleware:14 | method: GET | path: /v1/users/count | status_code: 200 | process_time: 2.23s
+21/05/2024 at 01:13:06 | INFO | middleware.log_middleware:14 | method: GET | path: /v1/users/ | status_code: 200 | process_time: 0.13s
+21/05/2024 at 01:13:06 | INFO | middleware.log_middleware:14 | method: GET | path: /v1/users/ | status_code: 200 | process_time: 0.13s
